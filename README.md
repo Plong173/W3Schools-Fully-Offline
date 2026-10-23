@@ -3,7 +3,7 @@
 A fully offline, highly compressed mirror of the popular W3Schools web development tutorials and documentation repository (originally by `ja7ad`). 
 
 > 📊 **Archive Compression Stats**
-> * **Original Uncompressed / ZIP Size:** ~600 MB
+> * **Original Compressed / ZIP Size:** ~600 MB
 > * **Highly Compressed (7z) Size:** ~100 MB (~83% size reduction!)
 
 Created to help students and developers access complete web dev documentation (HTML, CSS, JavaScript, PHP, SQL, and more) without needing an active internet connection.
